@@ -1,0 +1,11 @@
+elkebab
+
+r.txt
+commitment.txt
+privatekey.txt
+publickey.txt
+
+alice_r.txt
+# This doesn't get created, but BOBR KURWA, so we ignore it
+bob_r.txt
+commit_out.txt
