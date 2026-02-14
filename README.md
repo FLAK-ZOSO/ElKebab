@@ -17,7 +17,7 @@ gcc -o elkebab elkebab.c -lcrypto
 ### Create your own keypair
 
 ```bash
-./elkebab keygen privatekey.txt publickey.txt
+./elkebab genkey privatekey.txt publickey.txt
 ```
 *The format of the keys is not specified, but it is compatible with other operations with the same software.*
 
